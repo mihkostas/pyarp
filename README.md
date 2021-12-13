@@ -6,4 +6,4 @@ usage:
 stop program:
 
 	./pyarp.sh -s
-must run on root.
+must run as root.
