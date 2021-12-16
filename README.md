@@ -12,4 +12,4 @@ stop program:
 must run as root.<br/>
 if you dont have scapy install with.
 
-	sudo pip3 install scapy
+	pip3 install scapy
