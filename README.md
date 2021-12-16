@@ -10,3 +10,6 @@ stop program:
 
 	./pyarp.sh -s
 must run as root.
+if you dont have scapy install with.
+
+	sudo pip3 install scapy
