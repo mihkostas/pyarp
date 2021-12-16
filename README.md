@@ -1,6 +1,6 @@
 # pyarp
 pyarp is an arp spoofing tool made in python with the ```scapy``` library, <br/> 
-first make files executable:
+first make the files executable:
 	
 	chmod 755 pyarp*
 usage:  
