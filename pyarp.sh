@@ -3,6 +3,7 @@
 if [ $1 = '-s' ]; then
 
    killall pyarp.py -9
+   echo 0 > /proc/sys/net/ipv4/ip_forward
 
 else
   echo 1 > /proc/sys/net/ipv4/ip_forward
