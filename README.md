@@ -1,5 +1,11 @@
 # pyarp
-pyarp is an arp spoofing tool made in python with the ```scapy``` library, <br/> 
+pyarp is an arp spoofing tool made in python with the ```scapy``` library, <br/>
+
+**Dependencies:**
+  - python
+  - pynput
+  - pygame
+ 
 first make the files executable:
 	
 	chmod 755 pyarp*
