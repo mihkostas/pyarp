@@ -3,8 +3,7 @@ pyarp is an arp spoofing tool made in python with the ```scapy``` library, <br/>
 
 **Dependencies:**
   - python
-  - pynput
-  - pygame
+  - scapy
  
 first make the files executable:
 	
